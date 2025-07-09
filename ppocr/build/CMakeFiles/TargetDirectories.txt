@@ -1,0 +1,3 @@
+/home/khiem/Desktop/paddle_lite/ppocr/build/CMakeFiles/rebuild_cache.dir
+/home/khiem/Desktop/paddle_lite/ppocr/build/CMakeFiles/edit_cache.dir
+/home/khiem/Desktop/paddle_lite/ppocr/build/CMakeFiles/ocr_detect.dir
